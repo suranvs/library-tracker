@@ -1,6 +1,6 @@
 ---
 name: library-tracker
-display-name: 校园书架
+display-name: 苏州大学—校园书架Skill
 description: 面向大学生的母校图书馆借阅与阅读管理工具，帮你把从母校图书馆借来的书一一记上"校园书架"。可记录借阅的书、标记阅读进度（读到第几页）、添加备注、查询在读清单、统计已读完书目。凡用户提到"我从图书馆借了本《xxx》""《xxx》读到哪页了""我现在在读什么""读完哪本了""想找之前借的那本书"等场景，均应调用本 Skill。
 allowed-tools: Bash, Read, AskUserQuestion
 ---
